@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 50;
+    font-family: 'ariel', sans-serif;
+    box-sizing: border-box;
+    align-content: center;
+}
+.container{
+    width: 100%;
+    height: 100vh;
+    background: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.article{
+    width: 100%;
+    font-size: 24;
+    align-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    background: url(3300527-rubiks-cube-colorful-face-cube.jpg);
+}
+.title{
+    font-family: 'ariel',sans-serif;
+}
+.header{
+    background: cyan;
+    display: flex;
+    flex-wrap: wrap;
+}
