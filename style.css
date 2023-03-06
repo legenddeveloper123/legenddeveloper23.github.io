@@ -20,7 +20,8 @@
     align-content: center;
     display: flex;
     flex-wrap: wrap;
-    background: url(3300527-rubiks-cube-colorful-face-cube.jpg);
+    background: #000;
+    color: #fff;
 }
 .title{
     font-family: 'ariel',sans-serif;
