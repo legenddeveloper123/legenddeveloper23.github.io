@@ -27,7 +27,7 @@
     font-family: 'ariel',sans-serif;
 }
 .header{
-    background: cyan;
+    background: blue;
     display: flex;
     flex-wrap: wrap;
 }
